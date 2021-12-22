@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "name": "Ajith", "phone": "8281750918 1", "email": "ajithachus20@gmail.com" },
-    {  "id": 1, "name": "praveen", "phone": "8606062582 1", "email": "praveenckd@gmail.com" },
+    { "id": 1, "name": "Ajith", "phone": "8281750918", "email": "ajithachus20@gmail.com" },
+    {  "id": 1, "name": "praveen", "phone": "8606062582", "email": "praveenckd@gmail.com" },
     {  "id": 1, "name": "midhun", "phone": "8606062586", "email": "midhunks@gmail.com"  }
   ]
 }
