@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "user": [
+    { "id": 1, "name": "Ajith", "phone": "8281750918 1", "email": "ajithachus20@gmail.com" },
+    {  "id": 1, "name": "praveen", "phone": "8606062582 1", "email": "praveenckd@gmail.com" },
+    {  "id": 1, "name": "midhun", "phone": "8606062586", "email": "midhunks@gmail.com"  }
+  ]
 }
